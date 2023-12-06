@@ -1,0 +1,8 @@
+matplotlib
+tfds-nightly
+rlds[tensorflow]
+tf_agents
+tfp-nightly
+tensorflow_hub
+apache_beam
+
